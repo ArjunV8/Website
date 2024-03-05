@@ -1,0 +1,17 @@
+{
+  "providers": [
+    "awscloudformation"
+  ],
+  "projectName": "Website",
+  "version": "3.1",
+  "frontend": "javascript",
+  "javascript": {
+    "framework": "none",
+    "config": {
+      "SourceDir": "",
+      "DistributionDir": "C:\\Users\\arjun\\Downloads\\Website\\amplify\\backend",
+      "BuildCommand": "npm run build",
+      "StartCommand": "npm start"
+    }
+  }
+}
